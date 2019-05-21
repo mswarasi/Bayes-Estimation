@@ -1,4 +1,4 @@
-This repository contains R and FORTRAN programs associated with the article, “Estimating the prevalence of multiple diseases from two-stage hierarchical pooling.” The programs are described below.
+This repository contains R and FORTRAN programs associated with the article, “Estimating the prevalence of multiple diseases from two-stage hierarchical pooling.”
 
 Dual.GT.Dorfman.Bayes64.R – main R program that fits the proposed Bayesian model to estimate the prevalence of multiple infections.
 
