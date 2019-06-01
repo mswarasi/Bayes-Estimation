@@ -5,7 +5,9 @@ Dual.GT.Dorfman.Bayes64.R – main R program that fits the proposed Bayesian mod
 multigibbs64.dll – compiled FORTRAN subroutine that works under the main R program.
 
 multigibbs64.f90 – source code of the compiled FORTRAN subroutine.
-  
+
+Documentation and user instructions are provided within the R function: Dual.GT.Dorfman.Bayes64.R.
+
 Reference:
 
 Warasi, M., Tebbs, J., McMahan, C., and Bilder, C. (2016). Estimating the prevalence of multiple diseases from two-stage hierarchical pooling. Statistics in Medicine, 35, 3851-3864.
